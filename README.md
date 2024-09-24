@@ -3,7 +3,7 @@ MX20 reader
 
 # This branch extracts MX20’s data.
 
-# Prerequisite (Windows or Unix):
+# Prerequisite (Windows):
 * Conan
 * Visual Studio 2022 (Win)
 * CMake (Latest)
